@@ -10,8 +10,6 @@
 - Done
 
 ### Introduce Yourself
- Sure! Here's a short introduction for you:
-
 Hi, my name is Pahmi. I'm a freelance with a passion for Web3 technologies. I’m enthusiastic about exploring decentralized solutions, blockchain innovations, and the future of the internet. Always eager to learn, collaborate, and contribute to the Web3.
 
 
