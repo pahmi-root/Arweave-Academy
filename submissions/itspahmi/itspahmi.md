@@ -5,7 +5,7 @@
 
 - github account: pahmi-root
 - Email: ssbfahmi@gmail.com
-- Arweave Address: ARW8UcouE4XLN1AQt2Zt1GvopiFEVsZm4BJcFa8w3GDMQ7EjHGLYS
+- Arweave Address: gS0NNwVqmeYR_cCbxjBTDq9vO6LeDkpFTJ8ECtdPXfI
 - ETH Address: 0x30F2B184B35cfa847Ab82e0D9FbEC5Ab6D003770
 - Done
 
